@@ -14,7 +14,10 @@ Este é um simples encriptador e desencriptador de texto desenvolvido em HTML, C
 
 ## Como usar
 
-1. Abra o arquivo `index.html` em seu navegador web.
+1. Abra o link:
+   
+    https://eduardorochadev.github.io/EncriptadorAluraT6One/
+   
 2. Digite o texto que deseja encriptar ou desencriptar no campo de entrada.
 3. Clique no botão "Encriptar" para converter o texto conforme as regras definidas.
 4. Clique no botão "Desencriptar" para reverter o texto encriptado de volta ao texto original.
@@ -27,3 +30,5 @@ Este é um simples encriptador e desencriptador de texto desenvolvido em HTML, C
 - A letra "a" é convertida para "ai".
 - A letra "o" é convertida para "ober".
 - A letra "u" é convertida para "ufat".
+
+Eduardo Rocha @osenhorprogramador
