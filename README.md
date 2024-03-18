@@ -5,6 +5,7 @@ Encriptador e desencriptador de texto em HTML CSS e Javascript puro.
 # Encriptador e Desencriptador de Texto
 
 Este é um simples encriptador e desencriptador de texto desenvolvido em HTML, CSS e JavaScript. Ele permite encriptar e desencriptar texto de acordo com regras específicas.
+Foi nomeado de Enigma em alusão à maquina de criptografia de Turing.
 
 ## Funcionalidades
 
