@@ -1,8 +1,29 @@
-Desafio final Tuma T6 ALURA + Oracle.
+## Desafio final Tuma T6 ALURA + Oracle.
+
 Encriptador e desencriptador de texto em HTML CSS e Javascript puro.
-Tá funcionando? Sim. 
-Tá bonito? Depende.
 
-O encriptador recebeu o nome de Enigma, em alusão à máquina de criptografia de Alan Turing.
+# Encriptador e Desencriptador de Texto
 
- https://eduardorochadev.github.io/EncriptadorAluraT6One/
+Este é um simples encriptador e desencriptador de texto desenvolvido em HTML, CSS e JavaScript. Ele permite encriptar e desencriptar texto de acordo com regras específicas.
+
+## Funcionalidades
+
+- **Encriptar texto:** Converte o texto de entrada de acordo com as regras especificadas.
+- **Desencriptar texto:** Reverte o texto encriptado de volta ao texto original.
+- **Limpar texto:** Limpa os campos de entrada e saída.
+
+## Como usar
+
+1. Abra o arquivo `index.html` em seu navegador web.
+2. Digite o texto que deseja encriptar ou desencriptar no campo de entrada.
+3. Clique no botão "Encriptar" para converter o texto conforme as regras definidas.
+4. Clique no botão "Desencriptar" para reverter o texto encriptado de volta ao texto original.
+5. Para limpar os campos de texto, clique no botão "Limpar".
+
+## Regras de Encriptação
+
+- A letra "e" é convertida para "enter".
+- A letra "i" é convertida para "imes".
+- A letra "a" é convertida para "ai".
+- A letra "o" é convertida para "ober".
+- A letra "u" é convertida para "ufat".
